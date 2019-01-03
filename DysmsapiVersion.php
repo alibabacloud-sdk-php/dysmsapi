@@ -9,9 +9,9 @@ use AlibabaCloud\VersionResolverTrait;
  *
  * @package   AlibabaCloud\Dysmsapi
  *
- * @method V20170525\DysmsapiApiResolver v20170525()
+ * @method static V20170525\DysmsapiApiResolver v20170525()
  */
-class Dysmsapi
+class DysmsapiVersion
 {
     use VersionResolverTrait;
 }
