@@ -5,8 +5,8 @@ namespace AlibabaCloud\Dysmsapi;
 use AlibabaCloud\Client\Resolver\VersionResolver;
 
 /**
- * @deprecated
+ * @method static V20170525\DysmsapiApiResolver v20170525()
  */
-class DysmsapiVersion extends VersionResolver
+class Dysmsapi extends VersionResolver
 {
 }
